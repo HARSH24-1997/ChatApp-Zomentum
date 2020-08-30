@@ -1,3 +1,15 @@
+Project Discription
+
+Scripts
+npm i
+npm start
+
+First Page of the project is Login Page in which user can put any credentials to login in ChatAPP,After that a chat app will apper in which one side is friend List and other side is chat Display. I have an add Search function to easily find you friend , plus a delete and add friend functionality but it won't work due to unavaliablity of database ....but you can you friend addded in local storage cited with 'FriendList' array.Through input field you can send msg to custom friend of your choice.
+
+Thanks Sir
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
