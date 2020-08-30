@@ -1,0 +1,45 @@
+.AddButton {
+    position: fixed; 
+    left: 5%;
+    size:50px;
+    bottom: 22px;
+    z-index: 1000;
+    cursor: pointer;
+    /* animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5; */
+  }
+  
+  .LogoutButton {
+    position: fixed; 
+    left: 25%;
+    size:50px;
+    bottom: 24px;
+    z-index: 1000;
+    cursor: pointer;
+    /* animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5; */
+  }
+  
+  .NameButton {
+    position: absolute; 
+    right: 10%;
+    size:50px;
+    top: -50px;
+    z-index: 1000;
+    cursor: pointer;
+    /* animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5; */
+  }
+
+  .NameTag{
+    position: absolute; 
+    right: 90%;
+    size:50px;
+    top: -50px;
+    z-index: 1000;
+    cursor: pointer;
+  }
+  
